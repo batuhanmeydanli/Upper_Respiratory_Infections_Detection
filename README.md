@@ -1,4 +1,4 @@
-# hastayimm
+# Upper Respiratory Infections Detection
 
 A new Flutter project.
 
