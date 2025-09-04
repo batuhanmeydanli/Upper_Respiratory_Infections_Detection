@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041680729524",
+    "project_id": "restise-dae1b",
+    "storage_bucket": "restise-dae1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041680729524:android:c6b13275a5256906cfdee1",
+        "android_client_info": {
+          "package_name": "com.example.hastayimm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJS6CJLgM1T6EtlIgARM5PWbTXZIXc3bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
