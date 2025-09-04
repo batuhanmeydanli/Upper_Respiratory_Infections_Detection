@@ -1,16 +1,18 @@
-# Upper Respiratory Infections Detection
+# Deep Learning Based Upper Respiratory Infections Detection  
 
-A new Flutter project.
+This project applies deep learning techniques to medical imaging data for the detection and classification of upper respiratory tract infections.  
+The goal is to support early diagnosis and improve clinical decision-making through automated image analysis.  
 
-## Getting Started
+The system is implemented as a **Flutter mobile application** integrated with a deep learning model, providing an accessible tool for real-time predictions.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository, navigate into the project folder, install dependencies, and run the application:  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/yourusername/upper-respiratory-infections-detection.git && \
+cd upper-respiratory-infections-detection && \
+flutter pub get && \
+flutter run
+```
